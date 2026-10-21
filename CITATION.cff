@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "DACG-agent"
+authors:
+  - family-names: Sun
+    given-names: Fred
+  - family-names: Guo
+    given-names: Shangqi
+repository-code: "https://github.com/fredsun02/DACG"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "When More Evidence Hurts: Publication-Bias Drift and Principled Stopping for Biomedical Causal Search"
+  authors:
+    - family-names: Sun
+      given-names: Fred
+    - family-names: Guo
+      given-names: Shangqi
+  collection-title: "Proceedings of the IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
+  year: 2026
